@@ -1,0 +1,24 @@
+/* Body */
+body{
+  background-color: #EFEBE0;
+}
+
+#title{
+  background-color: #FAD02C;
+  height: 500px;
+}
+
+#projects{
+  background-color: #E9EAEC;
+  height: 500px;
+}
+
+#technologies{
+  background-color: #90ADC6;
+  height: 500px;
+}
+
+#contact{
+  background-color: #E9EAEC;
+  height: 200px;
+}
