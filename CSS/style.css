@@ -1,24 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Montserrat:wght@100;300;400;500;900&display=swap');
 /* Body */
 body{
   background-color: #EFEBE0;
+  font-size: 'Montserrat';
 }
 
+navbar-brand{
+  font-family: 'Montserrat';
+  font-weight: 900;
+}
+
+/* Title */
 #title{
-  background-color: #FAD02C;
+  background-color: #f09508;
+  
   height: 500px;
 }
 
-#projects{
-  background-color: #E9EAEC;
-  height: 500px;
+.about{
+  padding: 7% 15%;
 }
 
-#technologies{
-  background-color: #90ADC6;
-  height: 500px;
+.title-text{
+  font-family: 'Montserrat';
+  font-weight: 900;
 }
 
-#contact{
-  background-color: #E9EAEC;
-  height: 200px;
+.title-sub-text{
+  font-family: 'Montserrat';
+  font-weight: 500;
+}
+
+.title-image{
+  padding: 5% 15%;
+  margin: 0 auto;
+}
+
+.Shephali{
+  height: 350px;
+  width: 300px;
+  
 }
